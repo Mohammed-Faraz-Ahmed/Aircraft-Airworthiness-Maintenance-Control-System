@@ -11,23 +11,23 @@ The workbook uses a central aircraft selector to dynamically update aircraft-spe
 
 ### Airworthiness Dashboard
 
-![Airworthiness Dashboard](screenshots/dashboard.png)
+![Airworthiness Dashboard](dashboard.png)
 
 ### Maintenance Planning
 
-![Maintenance Planning](screenshots/maintenance-planning.png)
+![Maintenance Planning](maintenance-planning.png)
 
 ### Attention Required
 
-![Attention Required](screenshots/attention-required.png)
+![Attention Required](attention-required.png)
 
 ### Risk & Priority
 
-![Risk & Priority](screenshots/risk-priority.png)
+![Risk & Priority](risk-priority.png)
 
 ### Maintenance Packaging
 
-![Maintenance Packaging](screenshots/maintenance-packaging.png)
+![Maintenance Packaging](maintenance-packaging.png)
 
 ## Key Features
 
