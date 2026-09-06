@@ -7,6 +7,27 @@ An Excel-based aircraft airworthiness and maintenance control system designed to
 This project demonstrates how Microsoft Excel can be used to build an integrated aircraft maintenance monitoring system rather than a collection of disconnected spreadsheets.
 
 The workbook uses a central aircraft selector to dynamically update aircraft-specific information across multiple maintenance and airworthiness views.
+## Screenshots
+
+### Airworthiness Dashboard
+
+![Airworthiness Dashboard](screenshots/dashboard.png)
+
+### Maintenance Planning
+
+![Maintenance Planning](screenshots/maintenance-planning.png)
+
+### Attention Required
+
+![Attention Required](screenshots/attention-required.png)
+
+### Risk & Priority
+
+![Risk & Priority](screenshots/risk-priority.png)
+
+### Maintenance Packaging
+
+![Maintenance Packaging](screenshots/maintenance-packaging.png)
 
 ## Key Features
 
